@@ -4,7 +4,8 @@
     {
 
         public int Id { get; set; }
-        public String UserName { get; set; }
+        public string UserName { get; set; }
+        public string Address { get; set; }
 
     }
 }
